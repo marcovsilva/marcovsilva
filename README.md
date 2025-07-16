@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Marcos Vinicius</h1>
+<h1 align="center">👋 Hello, I am Marcos Vinicius</h1>
 
 <p align="center">
   💼 Professional with 10+ years of experience in Information Technology, with a strong background in critical environments and high-level technical support in government institutions.
