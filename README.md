@@ -53,8 +53,7 @@
 ### 📊 GitHub Stats & Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcovsilva&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-  <br />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcovsilva&layout=compact&langs_count=6&theme=dark" alt="Top Languages" />
   <br /><br />
   <img src="https://streak-stats.demolab.com?user=marcovsilva&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="Streak Stats" />
