@@ -54,7 +54,7 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcovsilva&layout=compact&langs_count=6&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcovsilva&layout=compact&langs_count=6&theme=dracula" alt="Top Languages" />
   <br /><br />
   <img src="https://streak-stats.demolab.com?user=marcovsilva&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="Streak Stats" />
   <img src="https://github-profile-trophy.vercel.app/?username=marcovsilva&theme=dracula&column=3&margin-w=10&margin-h=10&no-frame=false" height="150" alt="GitHub Trophy" />
@@ -77,7 +77,7 @@
 ### 📫 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/marcovsilva" target="_blank">
+  <a href="https://www.linkedin.com/in/marcos-vi-silva" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
 
