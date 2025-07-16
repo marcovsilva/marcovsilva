@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hello, I am Marcos Vinicius</h1>
 
 <p align="center">
-  💼 Professional with 10+ years of experience in Information Technology, with a strong background in critical environments and high-level technical support in government institutions.
+  💼 IT Professional with 10+ years of experience in Information Technology, with a strong background in critical environments and high-level technical support in government institutions.
 </p>
 
 <p align="center">
-  🎯 In a strategic transition to Data Science and Artificial Intelligence, applying my technical background to develop analytical solutions that drive smarter and more efficient decision-making.
+  🎯 Currently in a strategic transition to Data Science and Artificial Intelligence, applying my technical background to develop analytical solutions that drive smarter and more efficient decision-making.
 </p>
 
 ---
@@ -24,11 +24,11 @@
 
 ### 🧠 Education and Certifications
 
-- 🎓 Technologist in Systems Analysis and Development
-- 📊 Postgraduate Degree in Data Science
-- 📈 MBA in Big Data and Competitive Intelligence 
-- 🤖 Specialization in Artificial Intelligence and Data Science (UFES) 
-- 🏅 Certifications: Google Data Analytics, LGPD Fundamentals, BI Foundation
+- 🎓 Technologist in Systems Analysis and Development  
+- 📊 Postgraduate Degree in Data Science  
+- 📈 MBA in Big Data and Competitive Intelligence  
+- 🤖 Specialization in Artificial Intelligence and Data Science (UFES)  
+- 🏅 Certifications: Google Data Analytics, LGPD Fundamentals, BI Foundation  
 
 ---
 
@@ -43,57 +43,43 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-
-  <!-- Badge para Scikit-learn -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="60" alt="Scikit-learn" />
-  <!-- Ícone Power BI claro -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="60" alt="Scikit-learn"/>
   <img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png" width="60" height="60" alt="Power BI"/>
-  <!-- Ícone Tableau -->
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40" alt="Tableau" />
 </div>
 
-
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Trophies
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marcovsilva&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcovsilva&layout=compact&langs_count=6&theme=dark" alt="Top Languages" />
+  <br /><br />
+  <img src="https://streak-stats.demolab.com?user=marcovsilva&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="Streak Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=marcovsilva&theme=dracula&column=3&margin-w=10&margin-h=10&no-frame=false" height="150" alt="GitHub Trophy" />
 </div>
 
 ---
 
-### 📫 How to Find Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/marcos-vi-silva/)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcovsilva/marcovsilva/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcovsilva/marcovsilva/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/marcovsilva/marcovsilva/output/pacman-contribution-graph.svg" />
+  </picture>
+</div>
 
 ---
 
-###
+### 📫 Connect with Me
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <a href="https://www.linkedin.com/in/marcovsilva" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+  </a>
+
 </div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=marcovsilva&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=marcovsilva&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcovsilva/marcovsilva/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcovsilva/marcovsilva/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/marcovsilva/marcovsilva/output/pacman-contribution-graph.svg">
-</picture>
-
-###
