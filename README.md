@@ -1,38 +1,38 @@
 <h1 align="center">👋 Olá, eu sou o Marcos Vinicius</h1>
 
 <p align="center">
-  💼 Profissional com 10+ anos de experiência em Tecnologia da Informação, com forte atuação em ambientes críticos e suporte técnico de alta complexidade em órgãos públicos.
+  💼 Professional with 10+ years of experience in Information Technology, with a strong background in critical environments and high-level technical support in government institutions.
 </p>
 
 <p align="center">
-  🎯 Em transição estratégica para Ciência de Dados e Inteligência Artificial, aplicando minha base técnica para desenvolver soluções analíticas que impulsionam decisões mais inteligentes e eficientes.
+  🎯 In a strategic transition to Data Science and Artificial Intelligence, applying my technical background to develop analytical solutions that drive smarter and more efficient decision-making.
 </p>
 
 ---
 
-### 👨‍💻 Projetos em Destaque
+### 👨‍💻 Featured Projects
 
-- 🔢 **Previsão de peso com regressão multivariada (Lasso)**  
-- ✉️ **Classificação de e-mails com modelos supervisionados**  
-- 📊 **Clusterização de vendas semanais para análise de padrões**  
-- 🧘 **Análise exploratória com dados da Bellabeat (Google Fit)**  
-- 🌡️ **Séries Temporais: Temperaturas mínimas em Melbourne** (tendência e sazonalidade com modelos estatísticos)  
+- 🔢 **Weight Prediction using Multivariate Regression (Lasso)**  
+- ✉️ **Email Classification using Supervised Models**  
+- 📊 **Weekly Sales Clustering for Pattern Analysis**  
+- 🧘 **Exploratory Data Analysis with Bellabeat Data (Google Fit)**  
+- 🌡️ **Time Series: Minimum Temperatures in Melbourne** (Trend and Seasonality with Statistical Models)  
 
-🔗 **Portfólio completo:** [https://sites.google.com/view/portfliomarcos/home](https://sites.google.com/view/portfliomarcos/home)
-
----
-
-### 🧠 Formação e Certificações
-
-- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas  
-- 📊 Pós-graduação em Ciência de Dados  
-- 📈 MBA em Big Data e Inteligência Competitiva  
-- 🤖 Especialização em Inteligência Artificial e Ciência de Dados (UFES)  
-- 🏅 Certificações: Google Data Analytics, LGPD Fundamentals, BI Foundation  
+🔗 **Complete Portfolio:** [https://sites.google.com/view/portfliomarcos/home](https://sites.google.com/view/portfliomarcos/home)
 
 ---
 
-### 🧰 Tecnologias e Ferramentas
+### 🧠 Education and Certifications
+
+- 🎓 Technologist in Systems Analysis and Development
+- 📊 Postgraduate Degree in Data Science
+- 📈 MBA in Big Data and Competitive Intelligence 
+- 🤖 Specialization in Artificial Intelligence and Data Science (UFES) 
+- 🏅 Certifications: Google Data Analytics, LGPD Fundamentals, BI Foundation
+
+---
+
+### 🧰 Technologies and Tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
@@ -65,7 +65,7 @@
 
 ---
 
-### 📫 Como me encontrar
+### 📫 How to Find Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/marcos-vi-silva/)
 
