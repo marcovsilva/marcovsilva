@@ -2,7 +2,7 @@ name: Generate Pac-Man Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # roda todos os dias à meia-noite UTC
   workflow_dispatch:
 
 jobs:
@@ -10,14 +10,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: abozanona/pacman-contribution-graph@main
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Pacman Graph
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: marcovsilva
 
-      - name: Deploy to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Upload to output branch
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          target_branch: output
-          build_dir: dist
+          branch: output
+          folder: . # Aqui está o segredo: os SVGs são salvos na raiz
+          clean: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
