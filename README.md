@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I am Marcos Vinicius</h1>
 
 <p align="center">
-  💼 IT Professional with 10+ years of experience in Information Technology, with a strong background in critical environments and high-level technical support in government institutions.
+  💼 IT Professional with 15+ years of experience in Information Technology, with a strong background in critical environments and high-level technical support in government institutions.
 </p>
 
 <p align="center">
