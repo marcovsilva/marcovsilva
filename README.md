@@ -67,10 +67,10 @@
 ### 📊 GitHub Stats & Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcovsilva&layout=compact&langs_count=6&theme=dracula" alt="Top Languages" />
+  <img src="./profile-cards/top-langs.svg" alt="Top Languages" />
   <br /><br />
   <img src="https://streak-stats.demolab.com?user=marcovsilva&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="Streak Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=marcovsilva&theme=dracula&column=3&margin-w=10&margin-h=10&no-frame=false" height="150" alt="GitHub Trophy" />
+  <img src="./profile-cards/trophy.svg" height="150" alt="GitHub Trophy" />
 </div>
 
 ---
