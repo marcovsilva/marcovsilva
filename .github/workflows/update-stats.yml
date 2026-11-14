@@ -1,0 +1,45 @@
+name: Update GitHub Profile Stats & Trophies
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' # Atualiza automaticamente a cada 12 horas
+  workflow_dispatch: # Permite rodar manualmente na aba Actions
+
+permissions:
+  contents: write
+
+jobs:
+  update-cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Top Languages Card
+        uses: stats-organization/github-stats-extended-action@v1
+        with:
+          card: top-langs
+          username: marcovsilva
+          layout: compact
+          langs_count: 6
+          theme: dracula
+          path: profile-cards/top-langs.svg
+
+      - name: Generate GitHub Trophies
+        uses: soulteary/github-profile-trophy@v1.0.5
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: marcovsilva
+          theme: dracula
+          column: 3
+          margin-w: 10
+          margin-h: 10
+          no-frame: false
+          output_path: profile-cards/trophy.svg
+
+      - name: Commit & Push generated SVGs
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add profile-cards/
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update profile stats and trophies"
+          git push
