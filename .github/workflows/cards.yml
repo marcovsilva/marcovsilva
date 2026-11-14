@@ -1,0 +1,45 @@
+name: Generate Top Languages & Trophy
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Top Languages Card
+        uses: stats-organization/github-stats-extended-action@v1
+        with:
+          card: top-langs
+          username: marcovsilva
+          layout: compact
+          langs_count: 6
+          theme: dracula
+          path: profile-cards/top-langs.svg
+
+      - name: GitHub Trophy
+        uses: soulteary/github-profile-trophy@v1.0.5
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: marcovsilva
+          theme: dracula
+          column: 3
+          margin-w: 10
+          margin-h: 10
+          no-frame: false
+          output_path: profile-cards/trophy.svg
+
+      - name: Commit SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@://github.com"
+          git add profile-cards/
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update cards"
+          git push
