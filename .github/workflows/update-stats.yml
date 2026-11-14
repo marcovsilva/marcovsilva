@@ -20,14 +20,14 @@ jobs:
           card: top-langs
           options: "username=marcovsilva&layout=compact&langs_count=6&theme=dracula"
           path: profile-cards/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
 
       - name: Generate Trophy Card
         uses: soulteary/github-profile-trophy-action@v1
         with:
           options: "username=marcovsilva&theme=dracula&column=3&margin-w=10&margin-h=10&no-frame=false"
           path: profile-cards/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
 
       - name: Commit generated SVGs
         run: |
