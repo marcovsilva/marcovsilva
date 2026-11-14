@@ -1,15 +1,19 @@
 <h1 align="center">👋 Hello, I am Marcos Vinicius</h1>
 
 <p align="center">
-  💼 IT Professional with 15+ years of experience in Information Technology, with a strong background in critical environments and high-level technical support in government institutions.
+  <b>Artificial Intelligence Specialist • Data Scientist • IT Analyst</b>
 </p>
 
 <p align="center">
-  🎯 Currently in a strategic transition to <b>Data Science and Artificial Intelligence</b>, applying my technical background to build end-to-end architectures and analytical solutions that solve real-world problems and drive smarter decision-making.
+  💼 IT Professional with <b>15+ years of experience</b> in mission-critical Information Technology environments, where stability, precision, and agile problem-solving are baseline requirements.
 </p>
 
 <p align="center">
-  🚀 In this portfolio, you will find code, notebooks, and solutions covering <b>RAG pipelines and autonomous agents</b>, <b>anomaly detection with explainability (SHAP)</b>, <b>Computer Vision with Deep Learning</b>, <b>geospatial analysis</b>, and <b>predictive modeling</b> applied to credit and retail, among other applications.
+  🎯 Currently in a strategic transition to <b>Data Science and Artificial Intelligence</b>, combining extensive enterprise experience with strong academic training to build end-to-end architectures that solve real-world problems.
+</p>
+
+<p align="center">
+  <i>Accurate analysis ➔ Robust modeling ➔ Agile decisions.</i>
 </p>
 
 <p align="center">
@@ -20,22 +24,22 @@
 
 ### 👨‍💻 Featured Projects
 
-- 🛡️ **LOG AI — Anomaly Detection & Explainability:** Hybrid log ingestion and anomaly detection pipeline using Isolation Forest and SHAP explainability.
-- 🤖 **End-to-End RAG & Autonomous Agents:** Multi-agent system and Retrieval-Augmented Generation built with LangChain, LangGraph, Vector Databases, and FastAPI.
-- 🚦 **Traffic Sign Detection & Classification:** Computer Vision pipeline comparing HOG/SVM and Convolutional Neural Networks (CNNs).
-- 🔥 **Wildfire Prediction in Brazil:** Geospatial analysis and machine learning pipeline using INPE data and XGBoost.
-- 💳 **Credit Risk Scoring Model:** Predictive modeling for credit default stability using Random Forest and Artificial Neural Networks.
-- 📊 **Weekly Sales Clustering:** Unsupervised learning (K-Means & PCA) for retail pattern analysis and inventory optimization.
+- 🤖 **End-to-End RAG & Autonomous Agents:** Multi-agent system and Retrieval-Augmented Generation built with LLMs, LangChain, LangGraph, Vector Databases, and FastAPI.
+- 🛡️ **LOG AI — Anomaly Detection & Explainability:** Hybrid log ingestion and anomaly detection pipeline applying Isolation Forest and SHAP explainability.
+- 🔥 **Wildfire Prediction in Brazil:** End-to-end geospatial analysis and machine learning pipeline using INPE data, SQL, and XGBoost.
+- 🚦 **Traffic Sign Detection & Classification:** Computer Vision pipeline using HOG, SVM, and Convolutional Neural Networks (CNNs) for autonomous scenarios.
+- 💳 **Credit Risk & Default Prediction:** Credit scoring models built with Random Forest and Artificial Neural Networks (ANNs) to support loss mitigation.
+- 📊 **Retail Sales Clustering & Forecasting:** Unsupervised learning (K-Means & PCA) and Time Series forecasting to identify consumption patterns and optimize inventory.
 
 ---
 
-### 🧠 Education and Certifications
+### 🧠 Education & Certifications
 
 - 🤖 **Specialization in Artificial Intelligence and Data Science** — Universidade Federal do Espírito Santo (UFES)
 - 📈 **MBA in Big Data and Competitive Intelligence** — Uniamérica
 - 📊 **Postgraduate Degree in Data Science** — Uniamérica
 - 🎓 **Technologist in Systems Analysis and Development** — Centro Universitário São Camilo
-- 🏅 **Certifications:** Google Data Analytics, Prompt Engineering Foundation, LGPD Fundamentals, BI Foundation (BIFPC™)
+- 🏅 **Certifications:** Google Data Analytics • Prompt Engineering Foundation • Business Intelligence Foundation (BIFPC™) • LGPD Fundamentals
 
 ---
 
